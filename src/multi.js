@@ -173,7 +173,7 @@ var multi = (function() {
             var selectAll = document.createElement( 'button' );
             var deselectAll = document.createElement( 'button' );
             var selectAllTextNode = document.createTextNode("Select All");
-            var deselectAllTextNode = document.createTextNode("Deselect All");
+            var deselectAllTextNode = document.createTextNode("Select None");
             selectAll.appendChild(selectAllTextNode);
             deselectAll.appendChild(deselectAllTextNode);
 
