@@ -63,3 +63,7 @@
   background: inherit;
   cursor: inherit;
 }
+
+.multi-wrapper .select-all-button, .multi-wrapper .deselect-all-button{
+    width: 50%;
+}
